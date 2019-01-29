@@ -10,7 +10,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S5 - Plus | LOS 15.1 | v18 | mid | - |
 | Redmi 5A | LOS 15.1 | v18 | easy | - |
 | Motorola - G4 | LOS 15.1 | v18 | mid | - |
-| HTC One -  M7 | LOS 14.1 | v18 | mid | Heat |
+| HTC One -  M7 | LOS 14.1 | v18 | mid | heat |
 | OnePlus - 3T | ArrowOS 8.1 | v18 | easy | - |
 | Samsung Galaxy On5 | Stock | v18 | easy | needs pogodroid systemized |
 | Samsung Galaxy J2 - Prime | Stock | v18 | easy | - |

@@ -7,6 +7,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S4 - Mini | [LOS 14.1](https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-cyanogenmod-14-0-s4-mini-3g-lte-t3471761) | v17.1 | mid | laggy |
 | Samsung Galaxy S5 - Plus | [LOS 15.1](https://download.lineageos.org/kccat6) | v18 | mid | - |
 | Samsung Galaxy S5 - Sport | [LOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | easy | often stops injecting. Needs delay for pogodroid to start |
+| Samsung Galaxy S5 - mini | [LOS 14.1](https://forum.xda-developers.com/galaxy-s5-mini/development/g800f-m-y-lineageos-14-1-g800f-m-y-t3549055) | v18 | easy | runs "OK" , Needs delay for pogodroid to start |
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | easy | - |
 | Samsung Galaxy On5 | Stock | v18 | easy | needs pogodroid systemized |

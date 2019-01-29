@@ -16,7 +16,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy J2 - Prime | Stock | v18 | easy | - |
 | Samsung Galaxy S5 - Sport | [LOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | easy | often stops injecting. Needs delay for pogodroid to start |
 | Motorola - G5 | Stock | v18 | hard | needs script to add pogo to magisk hide on every reboot |
-| OnePlus 3 | [LOS 15.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-lineageos-15-1-oneplus-3-3t-t3739169) | v17.3 and v18 | easy | Magisk debug build |
+| OnePlus 3 | [LOS 15.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-lineageos-15-1-oneplus-3-3t-t3739169) | v17.3 and v18 | easy | magisk debug build |
 
 LOS = [LineageOS](https://lineageos.org/)
 

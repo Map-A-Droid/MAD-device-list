@@ -2,7 +2,7 @@
 List of devices known to work or not to work with the listed ROMs and Magisk versions (pass Safety Net, run Pogo along with RGC and stuff)
 
 | Modelname | OS | Magisk | Effort | Notes |
-| :---: | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: | :---: |
 | Samsung XCover4 | Stock | v18 | easy | - |
 | Samsung Galaxy S4 | [LOS 14.1](https://download.lineageos.org/jfltexx) | v17.1 | mid | laggy |
 | Samsung Galaxy S4 - Mini | [LOS 14.1](https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-cyanogenmod-14-0-s4-mini-3g-lte-t3471761) | v17.1 | mid | laggy |

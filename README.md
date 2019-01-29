@@ -3,10 +3,10 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 
 | Modelname | OS | Magiskversion | Effort | Notes |
 | --- | --- | --- | --- | --- |
-| Samsung XCover4 | Stock (Android 7.1) | v18 | easy | - |
+| Samsung XCover4 | Stock | v18 | easy | - |
 | Samsung Galaxy S4 | LOS 14.1 | v17.1 | mid | Laggy |
 | Samsung Galaxy S4 - Mini | LOS 14.1 | v17.1 | mid | Laggy |
-| Samsung Galaxy S6 - Edge | Stock (Android 7.1) | v18 | easy | - |
+| Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S5 - Plus | LOS 15.1 | v18 | mid | - |
 | Redmi 5A | LOS 15.1 | v18 | easy | - |
 | Motorola - G4 | LOS 15.1 | v18 | mid | - |
@@ -19,6 +19,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | OnePlus 3 | LOS 15.1 | between 17.3 and 18 | hard | Magisk debug build |
 
 LOS = [LineageOS](https://lineageos.org/)
+Stock = Native default ROM
 
 # Contribute
 If you could not find your working device, rom and magisk combination, please do open a PR adding it.

@@ -19,7 +19,6 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Motorola - G5 | Stock | v18 | hard | needs script to add pogo to magisk hide on every reboot |
 | Redmi 5A | [LOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | HTC One -  M7 | [LOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
-| OnePlus 3 | [LOS 15.1](https://download.lineageos.org/oneplus3) | v18 | easy | - |
 
 
 LOS = [LineageOS](https://lineageos.org/)

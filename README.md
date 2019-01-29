@@ -1,11 +1,11 @@
 # MAD-device-list
 List of devices known to work or not to work with the listed ROMs and Magisk versions (pass Safety Net, run Pogo along with RGC and stuff)
 
-| Modelname | OS | Magiskversion | Effort | Notes |
+| Modelname | OS | Magisk | Effort | Notes |
 | --- | --- | --- | --- | --- |
 | Samsung XCover4 | Stock | v18 | easy | - |
-| Samsung Galaxy S4 | LOS 14.1 | v17.1 | mid | Laggy |
-| Samsung Galaxy S4 - Mini | LOS 14.1 | v17.1 | mid | Laggy |
+| Samsung Galaxy S4 | LOS 14.1 | v17.1 | mid | laggy |
+| Samsung Galaxy S4 - Mini | LOS 14.1 | v17.1 | mid | laggy |
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S5 - Plus | LOS 15.1 | v18 | mid | - |
 | Redmi 5A | LOS 15.1 | v18 | easy | - |

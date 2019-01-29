@@ -5,6 +5,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | --- | :---: | :---: | :---: | :---: |
 | Samsung Galaxy S4 | [LOS 14.1](https://download.lineageos.org/jfltexx) | v17.1 | mid | laggy |
 | Samsung Galaxy S4 - Mini | [LOS 14.1](https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-cyanogenmod-14-0-s4-mini-3g-lte-t3471761) | v17.1 | mid | laggy |
+| Samsung Galaxy A5 | [LOS 14.1](https://download.lineageos.org/a5y17lte) | v17.1 | mid | laggy |
 | Samsung Galaxy S5 - Plus | [LOS 15.1](https://download.lineageos.org/kccat6) | v18 | mid | - |
 | Samsung Galaxy S5 - Sport | [LOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | easy | often stops injecting. Needs delay for pogodroid to start |
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
@@ -18,6 +19,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Motorola - G5 | Stock | v18 | hard | needs script to add pogo to magisk hide on every reboot |
 | Redmi 5A | [LOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | HTC One -  M7 | [LOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
+| OnePlus 3 | [LOS 15.1](https://download.lineageos.org/oneplus3) | v18 | easy | - |
 
 
 LOS = [LineageOS](https://lineageos.org/)

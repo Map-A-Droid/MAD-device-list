@@ -14,9 +14,9 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung XCover 4 | Stock | v18 | easy | - |
 | OnePlus - 3T | [ArrowOS 8.10](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/official-arrowos-t3822779) | v18 | easy | - |
 | OnePlus 3 | [LOS 15.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-lineageos-15-1-oneplus-3-3t-t3739169) | v17.3 and v18 | easy | magisk debug build |
-| Redmi 5A | [LOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | Motorola - G4 | [LOS 15.1](https://forum.xda-developers.com/moto-g4-plus/development/rom-lineageos-15-1-unofficial-t3768420) | v18 | mid | - |
 | Motorola - G5 | Stock | v18 | hard | needs script to add pogo to magisk hide on every reboot |
+| Redmi 5A | [LOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | HTC One -  M7 | [LOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
 
 

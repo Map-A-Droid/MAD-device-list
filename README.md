@@ -8,7 +8,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S4 - Mini | LOS 14.1 | v17.1 | mid | laggy |
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S5 - Plus | LOS 15.1 | v18 | mid | - |
-| Redmi 5A | LOS 15.1 | v18 | easy | - |
+| Redmi 5A | [LOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | Motorola - G4 | LOS 15.1 | v18 | mid | - |
 | HTC One -  M7 | LOS 14.1 | v18 | mid | heat |
 | OnePlus - 3T | ArrowOS 8.1 | v18 | easy | - |

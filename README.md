@@ -16,7 +16,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy On5 | Stock | v18 | easy | needs pogodroid systemized |
 | Samsung XCover 4 | Stock | v18 | easy | - |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | easy | - |
-| Motorola G4 | LineageOS 14.1 unofficial | v18 | easy | - |
+| Motorola G4 | [LineageOS 14.1 unofficial](https://forum.xda-developers.com/moto-g4-plus/development/rom-cyanogenmod-14-1-t3522101) | v18 | easy | - |
 | Motorola G4 - Plus | [LineageOS 15.1](https://forum.xda-developers.com/moto-g4-plus/development/rom-lineageos-15-1-unofficial-t3768420) | v18 | mid | - |
 | Motorola G5 | Stock | v18 | hard | - |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | mid | - |
@@ -26,8 +26,8 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | OnePlus 6 | Stock (Android 9.0 Pie) | v18 | easy | Pie requires MAD running behind a TLS reverse proxy |
 | Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | HTC One -  M7 | [LineageOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
-| Ulefone Metal | MADos 8.1 (oreo) | v18 | easy | - |
-| Sony Z3 Compact | CarbonRom 8.1 (oreo) | v18 | easy | - |
+| Ulefone Metal | [MADos 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | easy | - |
+| Sony Z3 Compact | [CarbonRom](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | easy | - |
 
 
 Stock = Native default ROM

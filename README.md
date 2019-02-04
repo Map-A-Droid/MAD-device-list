@@ -29,6 +29,7 @@ Samsung Galaxy J2 | Stock | v18 | easy | Often RGC/PogoDroid Lost Connection |
 | HTC One -  M7 | [LineageOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | easy | - |
 | Sony Z3 Compact | [CarbonRom](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | easy | - |
+| Google Pixel | Stock (Android 8.1 Oreo) | v18.1 | mid | Do not use Link2SD for RGC as it's an A/B phone, use [Systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) instead |
 
 Stock = Native default ROM
 

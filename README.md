@@ -25,7 +25,6 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Motorola G5 | Stock | v18 | hard | - |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | mid | - |
 | Motorola E4 (Mediatek) | Stock/[LineageOS Unofficial](https://forum.xda-developers.com/moto-e4/development/rom-lineageos-14-1-moto-e4-mediatek-t3717926) | v18 | easy | Device is available with Qualcomm processor as well - untested |
-| Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |
 | OnePlus 2 | [LineageOS 15.1](https://wiki.lineageos.org/devices/oneplus2/install) | v18 | easy | - |
 | OnePlus 3 | [LineageOS 15.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-lineageos-15-1-oneplus-3-3t-t3739169) | v18 | easy | - |
 | OnePlus 3T | [ArrowOS 8.10](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/official-arrowos-t3822779) | v18 | easy | - |
@@ -38,6 +37,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Sony Z3 Compact | [CarbonRom](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | easy | - |
 | Huawei P Smart | Stock | v18 | very hard | Requires paid bootloader unlock through DCunlocker and building own kernel with CONFIG_HUAWEI_PTRACE_POKE_ON=y and CONFIG_SECURITY_SELINUX_DEVELOP=y |
 | Google Pixel | Stock (Android 8.1 Oreo) | v18.1 | mid | Do not use Link2SD for RGC as it's an A/B phone, use [Systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) instead |
+| Google Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |
 
 Stock = Native default ROM
 

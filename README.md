@@ -12,6 +12,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S5 - Sport | [LineageOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | easy | often stops injecting. Needs delay for pogodroid to start |
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | easy | - |
+| Samsung Galaxy S8 | Stock | v18 | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
 | Samsung Galaxy J2 - Prime | Stock | v18 | easy | - |
 Samsung Galaxy J2 | Stock | v18 | easy | Often RGC/PogoDroid Lost Connection |
 | Samsung Galaxy On5 | Stock | v18 | easy | needs pogodroid systemized |

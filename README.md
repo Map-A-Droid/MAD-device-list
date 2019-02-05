@@ -3,6 +3,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 
 | Modelname | OS | Magisk | Effort | Notes |
 | --- | :---: | :---: | :---: | :---: |
+| Samsung Galaxy A3 2017 | [Resurrection Remix](https://forum.xda-developers.com/samsung-a-series-2017/development/rom-resurrection-remix-6-0-t3787726) | v18 | mid | phone is very inconsitsent, sometimes not powering on. Use with risk. |
 | Samsung Galaxy A5 | [LineageOS 14.1](https://download.lineageos.org/a5y17lte) | v17.1 | mid | laggy |
 | Samsung Galaxy A5 2017 | Stock | v18 | easy | - |
 | Samsung Galaxy S4 | [LineageOS 14.1](https://download.lineageos.org/jfltexx) | v17.1 | mid | laggy |

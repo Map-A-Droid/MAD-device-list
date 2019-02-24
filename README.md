@@ -31,6 +31,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | OnePlus 6 | Stock (Android 9.0 Pie) | v18 | easy | Pie requires MAD running behind a TLS reverse proxy |
 | Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | HTC One -  M7 | [LineageOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
+| HTC One -  M8 | [LineageOS 14.1](https://download.lineageos.org/m8) | v18 | mid | heat |
 | HTC Desire 626 | Stock | v18 | mid | No custom ROMs available and stock is kinda bloaty. Autostarting of pogodroid/RGC requires third party app like tasker. |
 | HTC Desire 430 | Stock | v18 | mid | 1.5GB RAM so slow but works well, no custom ROMs available and stock is kinda bloaty. Autostarting of pogodroid/RGC requires third party app like tasker |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | easy | - |

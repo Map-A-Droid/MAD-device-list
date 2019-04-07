@@ -15,7 +15,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | easy | - |
 | Samsung Galaxy S8 | Stock | v18 | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
-| Samsung Galaxy J2 - Prime | Stock | v18 | easy | - |
+| Samsung Galaxy J2 - Prime | Stock 6.0.1 | v18.1 | easy | smali does not work, pogodroid mocking does |
 | Samsung Galaxy J2 | Stock | v18 | easy | Often RGC/PogoDroid Lost Connection |
 | Samsung Galaxy On5 | Stock | v18 | easy | needs pogodroid systemized |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | easy | needs pogodroid systemized |
@@ -23,8 +23,9 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | easy | - |
 | Motorola G4 | [LineageOS 14.1 unofficial](https://forum.xda-developers.com/moto-g4-plus/development/rom-cyanogenmod-14-1-t3522101) | v18 | easy | - |
 | Motorola G4 - Plus | [LineageOS 15.1](https://forum.xda-developers.com/moto-g4-plus/development/rom-lineageos-15-1-unofficial-t3768420) | v18 | mid | - |
-| Motorola G5 | Stock | v18 | hard | - |
+| Motorola G5 | Stock | v18 | hard | their firmware for 7 has bugs, use android 8 and consider formatting data ext4 |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | mid | - |
+| Motorola E5 - Play (james) | [firmware](https://forum.xda-developers.com/moto-e5/how-to/firmware-moto-e5-xt1944-4-dual-sim-t3820901) [Directions](https://forum.xda-developers.com/moto-e5/how-to/guide-root-twrp-moto-e5-play-explained-t3856182) | v18.1 | mid | youtube FRP unlock method worked for me |
 | Motorola E4 (Mediatek) | Stock/[LineageOS Unofficial](https://forum.xda-developers.com/moto-e4/development/rom-lineageos-14-1-moto-e4-mediatek-t3717926) | v18 | easy | Device is available with Qualcomm processor as well - untested |
 | OnePlus 2 | [LineageOS 15.1](https://wiki.lineageos.org/devices/oneplus2/install) | v18 | easy | - |
 | OnePlus 3 | [LineageOS 15.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-lineageos-15-1-oneplus-3-3t-t3739169) | v18 | easy | - |
@@ -40,7 +41,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Huawei P Smart | Stock | v18 | very hard | Requires paid bootloader unlock through DCunlocker and building own kernel with CONFIG_HUAWEI_PTRACE_POKE_ON=y and CONFIG_SECURITY_SELINUX_DEVELOP=y |
 | Google Pixel | Stock (Android 8.1 Oreo) | v18.1 | mid | Do not use Link2SD for RGC as it's an A/B phone, use [Systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) instead |
 | Google Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |
-
+| LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | mid | Needs safetypatcher magisk module. |
 Stock = Native default ROM
 
 # Contribute

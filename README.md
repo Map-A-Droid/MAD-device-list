@@ -15,9 +15,9 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S6 - Edge | Stock | v18 | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | easy | - |
 | Samsung Galaxy S8 | Stock | v18 | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
-| Samsung Galaxy J2 - Prime | Stock 6.0.1 | v18.1 | easy | smali does not work, pogodroid mocking does |
+| Samsung Galaxy J2 - Prime G532M | HadesRom 6.0.1 | v18.1 | easy | the only hard part was waiting for a working rom |
 | Samsung Galaxy J2 | Stock | v18 | easy | Often RGC/PogoDroid Lost Connection |
-| Samsung Galaxy On5 | Stock | v18 | easy | needs pogodroid systemized |
+| Samsung Galaxy On5 | Stock | v18 | mid | needs pogodroid systemized. systemize both apps before installing smali |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | easy | needs pogodroid systemized |
 | Samsung XCover 4 | Stock | v18 | easy | - |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | easy | - |

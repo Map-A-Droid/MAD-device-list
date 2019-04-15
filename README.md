@@ -43,6 +43,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Google Pixel | Stock (Android 8.1 Oreo) | v18.1 | mid | Do not use Link2SD for RGC as it's an A/B phone, use [Systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) instead |
 | Google Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |
 | LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | mid | Needs safetypatcher magisk module. |
+
 Stock = Native default ROM
 
 # Contribute

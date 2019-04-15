@@ -19,7 +19,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy J2 | Stock | v18 | easy | Often RGC/PogoDroid Lost Connection |
 | Samsung Galaxy On5 | Stock | v18 | mid | needs pogodroid systemized. systemize both apps before installing smali |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | easy | needs pogodroid systemized |
-| Samsung XCover 4 | Stock | v18 | easy | - |
+| Samsung XCover 4 | Stock | v18.1 | (super)easy | No Smali and no PogoDroid Mocking needed |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | easy | - |
 | Motorola G4 | [LineageOS 14.1 unofficial](https://forum.xda-developers.com/moto-g4-plus/development/rom-cyanogenmod-14-1-t3522101) | v18 | easy | - |
 | Motorola G4 - Plus | [LineageOS 15.1](https://forum.xda-developers.com/moto-g4-plus/development/rom-lineageos-15-1-unofficial-t3768420) | v18 | mid | - |

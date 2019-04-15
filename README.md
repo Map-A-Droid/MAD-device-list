@@ -2,7 +2,7 @@
 List of devices known to work or not to work with the listed ROMs and Magisk versions (pass Safety Net, run Pogo along with RGC and stuff)
 
 | Modelname | OS | Magisk | Effort | Notes |
-| --- | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | Google Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |
 | Google Pixel | Stock (Android 8.1 Oreo) | v18.1 | mid | Do not use Link2SD for RGC as it's an A/B phone, use [Systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) instead |
 | HTC Desire 430 | Stock | v18 | mid | 1.5GB RAM so slow but works well, no custom ROMs available and stock is kinda bloaty. Autostarting of pogodroid/RGC requires third party app like tasker |

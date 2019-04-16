@@ -10,7 +10,10 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | HTC One -  M7 | [LineageOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | mid | heat |
 | HTC One -  M8 | [LineageOS 14.1](https://download.lineageos.org/m8) | v18 | mid | heat |
 | Huawei P Smart | Stock | v18 | very hard | Requires paid bootloader unlock through DCunlocker and building own kernel with CONFIG_HUAWEI_PTRACE_POKE_ON=y and CONFIG_SECURITY_SELINUX_DEVELOP=y |
+| LeEco Le 2 X526 | LineageOS 15.1 | v18 | easy | - |
 | LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | mid | Needs safetypatcher magisk module. |
+| LG G5 | LineageOS 15.1 | v18 | easy | Likes to drop WiFi. |
+| LG Nexus 5 | LineageOS 14.1 | v18 | easy | Heat, slideshow - needs vps_delay for quests to keep up. Works well for raids. |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | mid | - |
 | Motorola E4 (Mediatek) | Stock/[LineageOS Unofficial](https://forum.xda-developers.com/moto-e4/development/rom-lineageos-14-1-moto-e4-mediatek-t3717926) | v18 | easy | Device is available with Qualcomm processor as well - untested |
 | Motorola E5 - Play (james) | [firmware](https://forum.xda-developers.com/moto-e5/how-to/firmware-moto-e5-xt1944-4-dual-sim-t3820901) [Directions](https://forum.xda-developers.com/moto-e5/how-to/guide-root-twrp-moto-e5-play-explained-t3856182) | v18.1 | mid | youtube FRP unlock method worked for me |
@@ -22,7 +25,6 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | OnePlus 3 | [LineageOS 15.1](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-lineageos-15-1-oneplus-3-3t-t3739169) | v18 | easy | - |
 | OnePlus 3T | [ArrowOS 8.10](https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/official-arrowos-t3822779) | v18 | easy | - |
 | OnePlus 6 | Stock (Android 9.0 Pie) | v18 | easy | Pie requires MAD running behind a TLS reverse proxy |
-| Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 | Samsung Galaxy A3 2017 | [Resurrection Remix](https://forum.xda-developers.com/samsung-a-series-2017/development/rom-resurrection-remix-6-0-t3787726) | v18 | mid | phone is very inconsitsent, sometimes not powering on. Use with risk. |
 | Samsung Galaxy A5 | [LineageOS 14.1](https://download.lineageos.org/a5y17lte) | v17.1 | mid | laggy |
 | Samsung Galaxy A5 2017 | Stock | v18 | easy | - |
@@ -43,10 +45,11 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung XCover 4 | Stock | v18.1 | (super)easy | No Smali and no PogoDroid Mocking needed |
 | Sony Z3 Compact | [CarbonRom](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | easy | - |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | easy | - |
+| Ulefone Power | Stock | v18 | mid | dodgy USB drivers for rooting |
+| Xiaomi Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | easy | - |
 
 Stock = Native default ROM
 
 # Contribute
 If you could not find your working device, rom and magisk combination, please do open a PR adding it.
 If you find a device, rom, magisk combination did not work out for you, open up an issue to start a discussion.
-

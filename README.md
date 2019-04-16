@@ -11,7 +11,6 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | HTC One -  M8 | [LineageOS 14.1](https://download.lineageos.org/m8) | v18 | mid | heat |
 | Huawei P Smart | Stock | v18 | very hard | Requires paid bootloader unlock through DCunlocker and building own kernel with CONFIG_HUAWEI_PTRACE_POKE_ON=y and CONFIG_SECURITY_SELINUX_DEVELOP=y |
 | LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | mid | Needs safetypatcher magisk module. |
-| Modelname | OS | Magisk | Effort | Notes |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | mid | - |
 | Motorola E4 (Mediatek) | Stock/[LineageOS Unofficial](https://forum.xda-developers.com/moto-e4/development/rom-lineageos-14-1-moto-e4-mediatek-t3717926) | v18 | easy | Device is available with Qualcomm processor as well - untested |
 | Motorola E5 - Play (james) | [firmware](https://forum.xda-developers.com/moto-e5/how-to/firmware-moto-e5-xt1944-4-dual-sim-t3820901) [Directions](https://forum.xda-developers.com/moto-e5/how-to/guide-root-twrp-moto-e5-play-explained-t3856182) | v18.1 | mid | youtube FRP unlock method worked for me |

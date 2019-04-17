@@ -36,7 +36,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S5 - mini | [LineageOS 14.1](https://forum.xda-developers.com/galaxy-s5-mini/development/g800f-m-y-lineageos-14-1-g800f-m-y-t3549055) | v18 | N/A | easy | runs "OK" , Needs delay for pogodroid to start |
 | Samsung Galaxy S5 - Plus | [LineageOS 15.1](https://download.lineageos.org/kccat6) | v18 | (super)easy | mid | - |
 | Samsung Galaxy S5 - Sport | [LineageOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | (super)easy | easy | often stops injecting. Needs delay for pogodroid to start |
-| Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | N/A | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
+| Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | super(easy) | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
 | Samsung Galaxy S6 - Edge | Stock | v18 | no | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | no | easy | - |
 | Samsung Galaxy S8 | Stock | v18 | no | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |

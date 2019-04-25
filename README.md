@@ -12,6 +12,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Huawei P Smart | Stock | v18 | [yes/hard](https://www.youtube.com/watch?v=ngeka8enG00) | very hard | Requires paid bootloader unlock through DCunlocker and building own kernel with CONFIG_HUAWEI_PTRACE_POKE_ON=y and CONFIG_SECURITY_SELINUX_DEVELOP=y |
 | LeEco Le 2 X526 | LineageOS 15.1 | v18 | N/A | easy | - |
 | LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | N/A | mid | Needs safetypatcher magisk module. |
+| LG Aristo 2 | LineageOS 14.1 | v19 | yes | mid | 1) Downgrade to Nougat or earlier to allow Fastboot commands to work. 2) Use TWRP and LineageOS 14.1.zip from here: https://androidfilehost.com/?a=show&w=files&flid=285484. 3) Wipe Data partition with TWRP and format wtih ext4 to get around any encryption, then reboot back to TWRP.  4) Use Smali Patcher to alleviate rubberbanding. |
 | LG G5 | LineageOS 15.1 | v18 | [easy](https://www.youtube.com/watch?v=IjZrQUclt2Y) | easy | Likes to drop WiFi. |
 | LG Nexus 5 | LineageOS 14.1 | v18 | N/A | easy | Heat, slideshow - needs vps_delay for quests to keep up. Works well for raids. |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | N/A | mid | - |

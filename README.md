@@ -44,7 +44,8 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | N/A | easy | - |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | N/A | easy | needs pogodroid systemized |
 | Samsung XCover 4 | Stock | v18.1 | (super)easy | (super)easy | No Smali and no PogoDroid Mocking needed |
-| Sony Z3 Compact | [CarbonRom](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | N/A | easy | - |
+| Sony Xperia Z2 | [CarbonROM](https://forum.xda-developers.com/xperia-z2/development/7-x-x-carbonrom-cr-5-1-t3655016) | v18.1 | [yes/mid](https://www.youtube.com/watch?v=BgmCgjuO20E) | easy | - |
+| Sony Z3 Compact | [CarbonROM](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | N/A | easy | - |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | N/A | easy | - |
 | Ulefone Power | Stock | v18 | N/A | mid | dodgy USB drivers for rooting |
 | Xiaomi Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | N/A | easy | - |

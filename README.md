@@ -30,20 +30,20 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy A5 | [LineageOS 14.1](https://download.lineageos.org/a5y17lte) | v17.1 | N/A | mid | laggy |
 | Samsung Galaxy A5 2017 | Stock | v18 | N/A | easy | - |
 | Samsung Galaxy J2 - Prime G532M | HadesRom 6.0.1 | v18.1 | N/A | easy | the only hard part was waiting for a working rom |
-| Samsung Galaxy J2 | Stock | v18 | (super)easy | easy | Often RGC/PogoDroid Lost Connection |
-| Samsung Galaxy On5 | Stock | v18 | (super)easy | mid | needs pogodroid systemized. systemize both apps before installing smali |
-| Samsung Galaxy S4 - Mini | [LineageOS 14.1](https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-cyanogenmod-14-0-s4-mini-3g-lte-t3471761) | v17.1 | (super)easy | mid | laggy |
-| Samsung Galaxy S4 | [LineageOS 14.1](https://download.lineageos.org/jfltexx) | v17.1 | (super)easy | mid | laggy |
+| Samsung Galaxy J2 | Stock | v18 | easy | easy | Often RGC/PogoDroid Lost Connection |
+| Samsung Galaxy On5 | Stock | v18 | easy | mid | needs pogodroid systemized. systemize both apps before installing smali |
+| Samsung Galaxy S4 - Mini | [LineageOS 14.1](https://forum.xda-developers.com/galaxy-s4-mini/orig-development/rom-cyanogenmod-14-0-s4-mini-3g-lte-t3471761) | v17.1 | easy | mid | laggy |
+| Samsung Galaxy S4 | [LineageOS 14.1](https://download.lineageos.org/jfltexx) | v17.1 | easy | mid | laggy |
 | Samsung Galaxy S5 - mini | [LineageOS 14.1](https://forum.xda-developers.com/galaxy-s5-mini/development/g800f-m-y-lineageos-14-1-g800f-m-y-t3549055) | v18 | N/A | easy | runs "OK" , Needs delay for pogodroid to start |
-| Samsung Galaxy S5 - Plus | [LineageOS 15.1](https://download.lineageos.org/kccat6) | v18 | (super)easy | mid | - |
-| Samsung Galaxy S5 - Sport | [LineageOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | (super)easy | easy | often stops injecting. Needs delay for pogodroid to start |
-| Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | (super)easy | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
+| Samsung Galaxy S5 - Plus | [LineageOS 15.1](https://download.lineageos.org/kccat6) | v18 | easy | mid | - |
+| Samsung Galaxy S5 - Sport | [LineageOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | easy | easy | often stops injecting. Needs delay for pogodroid to start |
+| Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | easy | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
 | Samsung Galaxy S6 - Edge | Stock | v18 | no | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | no | easy | - |
 | Samsung Galaxy S8 | Stock | v18 | no | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | N/A | easy | - |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | N/A | easy | needs pogodroid systemized |
-| Samsung XCover 4 | Stock | v18.1 | (super)easy | (super)easy | No Smali and no PogoDroid Mocking needed |
+| Samsung XCover 4 | Stock | v18.1 | easy | easy | No Smali and no PogoDroid Mocking needed |
 | Sony Xperia Z2 | [CarbonROM](https://forum.xda-developers.com/xperia-z2/development/7-x-x-carbonrom-cr-5-1-t3655016) | v18.1 | [yes/mid](https://www.youtube.com/watch?v=BgmCgjuO20E) | easy | - |
 | Sony Z3 Compact | [CarbonROM](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | N/A | easy | - |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | N/A | easy | - |

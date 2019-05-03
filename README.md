@@ -43,6 +43,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S8 | Stock | v18 | no | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | N/A | easy | - |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | N/A | easy | needs pogodroid systemized |
+| Samsung XCover 3 (SM-G388F) | Stock (Android 5.1.1 Lollipop) | v18.1 | N/A | N/A | Pogodroid works, RGC crashes  |
 | Samsung XCover 4 | Stock | v18.1 | easy | easy | No Smali and no PogoDroid Mocking needed |
 | Sony Xperia Z2 | [CarbonROM](https://forum.xda-developers.com/xperia-z2/development/7-x-x-carbonrom-cr-5-1-t3655016) | v18.1 | [yes/mid](https://www.youtube.com/watch?v=BgmCgjuO20E) | easy | - |
 | Sony Z3 Compact | [CarbonROM](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | N/A | easy | - |

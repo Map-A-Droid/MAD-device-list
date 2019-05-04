@@ -38,8 +38,10 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S5 - Plus | [LineageOS 15.1](https://download.lineageos.org/kccat6) | v18 | easy | mid | - |
 | Samsung Galaxy S5 - Sport | [LineageOS 14.1](https://forum.xda-developers.com/sprint-galaxy-s5/development/rom-lineageos-14-1-galaxy-s5-sport-sm-t3727763) | v18 | easy | easy | often stops injecting. Needs delay for pogodroid to start |
 | Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | easy | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
-| Samsung Galaxy S6 - Edge | Stock | v18 | no | easy | - |
+| Samsung Galaxy S6 | Stock | V18 | N/A | easy | - |
+| Samsung Galaxy S6 - Edge | Stock | v18.1 | no | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | no | easy | - |
+| Samsung Galaxy S7 - Edge | Stock | V18.1 | no | mid | Android 7, samsung-antiroot-removal-2.4, in PogoDroid disable the option "Lower SELinux to permissive" to fix reboot issue on inject |
 | Samsung Galaxy S8 | Stock | v18 | no | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | N/A | easy | - |
 | Samsung XCover 3 (SM-G389F) | Stock | v18.1 | N/A | easy | needs pogodroid systemized |

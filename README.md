@@ -15,11 +15,12 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | LG Aristo 2 | LineageOS 14.1 | v19 | yes | mid | 1) Downgrade to Nougat or earlier to allow Fastboot commands to work. 2) Use TWRP and LineageOS 14.1.zip from here: https://androidfilehost.com/?a=show&w=files&flid=285484. 3) Wipe Data partition with TWRP and format wtih ext4 to get around any encryption, then reboot back to TWRP.  4) Use Smali Patcher to alleviate rubberbanding. |
 | LG G5 | LineageOS 15.1 | v18 | [easy](https://www.youtube.com/watch?v=IjZrQUclt2Y) | easy | Likes to drop WiFi. |
 | LG Nexus 5 | LineageOS 14.1 | v18 | N/A | easy | Heat, slideshow - needs vps_delay for quests to keep up. Works well for raids. |
+| LG Nexus 5X | [LineageOS 15.1](https://download.lineageos.org/bullhead) | v18 | yes/easy | easy | - |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | N/A | mid | - |
 | Motorola E4 (Mediatek) | Stock/[LineageOS Unofficial](https://forum.xda-developers.com/moto-e4/development/rom-lineageos-14-1-moto-e4-mediatek-t3717926) | v18 | N/A | easy | Device is available with Qualcomm processor as well - untested |
 | Motorola E5 - Play (james) | [firmware](https://forum.xda-developers.com/moto-e5/how-to/firmware-moto-e5-xt1944-4-dual-sim-t3820901) [Directions](https://forum.xda-developers.com/moto-e5/how-to/guide-root-twrp-moto-e5-play-explained-t3856182) | v18.1 | N/A | mid | youtube FRP unlock method worked for me |
 | Motorola G4 - Plus | [LineageOS 15.1](https://forum.xda-developers.com/moto-g4-plus/development/rom-lineageos-15-1-unofficial-t3768420) | v18 | N/A | mid | - |
-| Motorola G4 | [LineageOS 14.1 unofficial](https://forum.xda-developers.com/moto-g4-plus/development/rom-cyanogenmod-14-1-t3522101) | v18 | N/A | easy | - |
+| Motorola G4 | [LineageOS 14.1 unofficial](https://forum.xda-developers.com/moto-g4-plus/development/rom-cyanogenmod-14-1-t3522101) | v18 | yes/mid | easy | - |
 | Motorola G5 | Stock | v18 | N/A | hard | their firmware for 7 has bugs, use android 8 and consider formatting data ext4 |
 | Motorola X4 | [LineageOS 16.0](https://download.lineageos.org/payton) | v18 | N/A | easy | A/B Device, requires at least one OTA update before root or a BlankFlash is required. Intall RGC as Sys-priv app with Systemizer. Avoid Amazon Prime version. Android One version untested. SmaliPatch required. ARM64 injection. |
 | OnePlus 2 | [LineageOS 15.1](https://wiki.lineageos.org/devices/oneplus2/install) | v18 | [yes/mid](https://www.youtube.com/watch?v=rtYkV0YiB9g) | easy | - |

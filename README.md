@@ -41,7 +41,12 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | easy | N/A | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
 | Samsung Galaxy S6 | Stock | V18 | N/A | N/A | easy | - |
 | Samsung Galaxy S6 - Edge | Stock | v18.1 | no | N/A | easy | - |
+| Samsung Galaxy S6 | LineageOS 14.1 | V18.1 | N/A | N/A | easy | - |
+| Samsung Galaxy S6 - Edge | LineageOS 14.1[MEGA](https://mega.nz/#!AwBgBAyL!eRX-EvfKsbJ962DnhMuabF4vhHzyyMF1xlPWCFiiFgs)  | v18.1 | no | N/A | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | no | N/A | easy | - |
+| Samsung Galaxy S7 | LineageOS 14.1[MEGA](https://mega.nz/#!E5AAnKxA!7pYV8CV009itmF5lSxuuc0VDTHkWGJi-5ac7fptjKBw)  | v18.1 | no | N/A | easy | - |
+| Samsung Galaxy S7 EDGE| LineageOS 14.1 [MEGA](https://mega.nz/#!1wIGXYSY!dnMHHWhGFnXiI6j4cQLElY6Km44rEYp5zbaBjNfaPUo)| v18.1 | no | N/A | easy | - |
+| Samsung Galaxy S7 EDGE| UNOFFICIAL LineageOS 15.1 [MEGA](https://mega.nz/#!k5YyBQjT!1Dn_CcOEsfLUmsT4RMtb5XF6FKFBLlwYrA-eV-oT4Ow)| v18.1 | no | N/A | easy | - |
 | Samsung Galaxy S7 - Edge | Stock | V18.1 | no | N/A | mid | Android 7, samsung-antiroot-removal-2.4, in PogoDroid disable the option "Lower SELinux to permissive" to fix reboot issue on inject |
 | Samsung Galaxy S8 | Stock | v18 | no | N/A | mid | Need to flash a custom kernel in order to set SELinux to permissable [kernel](https://forum.xda-developers.com/galaxy-s8/samsung-galaxy-s8--s8-cross-device-development/kernel-tgpkernel-t3654423) |
 | Samsung Tab S2 9.7 WiFi | [LineageOS 15.1](https://download.lineageos.org/gts210vewifi) | v18 | N/A | N/A | easy | - |

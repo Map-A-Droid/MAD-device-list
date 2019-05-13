@@ -41,7 +41,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung Galaxy S5 | [LineageOS 14.1 Unofficial](https://androidfilehost.com/?fid=11410963190603877710) | v18 | easy | N/A | easy | Unofficial 14.1 is much more stable than Official LineageOS 15.x |
 | Samsung Galaxy S6 | Stock | V18 | N/A | N/A | easy | - |
 | Samsung Galaxy S6 - Edge | Stock | v18.1 | no | N/A | easy | - |
-| Samsung Galaxy S6 | LineageOS 14.1 | V18.1 | N/A | N/A | easy | - |
+| Samsung Galaxy S6 | LineageOS 14.1 [MEGA](https://mega.nz/#!BtJBlQhQ!uDZOVZ4zdA-JVV3kfqgB4jWet64mDRKTP_uJnHienX8)| V18.1 | N/A | N/A | easy | - |
 | Samsung Galaxy S6 - Edge | LineageOS 14.1[MEGA](https://mega.nz/#!AwBgBAyL!eRX-EvfKsbJ962DnhMuabF4vhHzyyMF1xlPWCFiiFgs)  | v18.1 | no | N/A | easy | - |
 | Samsung Galaxy S7 | Stock | v18 | no | N/A | easy | - |
 | Samsung Galaxy S7 | LineageOS 14.1[MEGA](https://mega.nz/#!E5AAnKxA!7pYV8CV009itmF5lSxuuc0VDTHkWGJi-5ac7fptjKBw)  | v18.1 | no | N/A | easy | - |

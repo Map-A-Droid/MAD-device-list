@@ -4,8 +4,10 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 ## Compatible Android TV boxes:
 | Modelname | CPU | Image | Magisk | Smali | Flashing via | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| X96 Mini (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | SD Card | easy | Follow the tutorial @Discord |
-| A95X F1 (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 19.3 | Yes | USB A to USB A | easy | Follow the tutorial @Discord |
+| X96 Mini (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | SD Card | 20 min. | Follow the tutorial @Discord |
+| A95X F1 (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 19.3 | Yes | USB A to USB A | 20 min. | Follow the tutorial @Discord |
+
+* The ATV Boxes are pretty easy to set up. If you have the feeling how to set up its mostly can be done inbetween 20 minutes..
 
 ## Compatible Smartphones:
 | Modelname | OS | Magisk | Rem. battery | Run w/o battery | Effort | Notes |

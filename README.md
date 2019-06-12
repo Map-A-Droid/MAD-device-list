@@ -1,6 +1,13 @@
 # MAD-device-list
 List of devices known to work or not to work with the listed ROMs and Magisk versions (pass Safety Net, run Pogo along with RGC and stuff)
 
+## Compatible Android TV boxes:
+| Modelname | CPU | Image | Magisk | Smali | Flashing via | Effort | Notes |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| X96 Mini (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | SD Card | easy | Follow the tutorial @Discord |
+| A95X F1 (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | USB A to USB A | easy | Follow the tutorial @Discord |
+
+## Compatible Smartphones:
 | Modelname | OS | Magisk | Rem. battery | Run w/o battery | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Google Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | [yes/hard](https://www.youtube.com/watch?v=BzknIzaAijQ) | N/A | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |

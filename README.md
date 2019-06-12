@@ -4,8 +4,8 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 ## Compatible Android TV boxes:
 | Modelname | CPU | Image | Magisk | Smali | Flashing via | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| X96 Mini (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | SD Card | 20 min. | Follow the tutorial @Discord |
-| A95X F1 (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 19.3 | Yes | USB A to USB A | 20 min. | Follow the tutorial @Discord |
+| X96 Mini (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | SD Card | 20 min. | [Tutorial -> Ask for PW on Discord](https://pixlblog.pixlmap.de/index.php/2019/06/09/make-a-rooted-android-tv-box-pokemongo-ready/) |
+| A95X F1 (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 19.3 | Yes | USB A to USB A | 20 min. | [Tutorial -> Ask for PW on Discord](https://pixlblog.pixlmap.de/index.php/2019/06/12/pogo-on-a-a95x-f1-atv-s905w-2gb-16gb-s905w_atvxperience_v2ff/) |
 
 
 ## Compatible Smartphones:

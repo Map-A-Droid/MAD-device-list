@@ -6,6 +6,8 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | X96 Mini (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 18.1 | Yes | SD Card | ~120 min. | [Tutorial -Ask for access on Discord](https://pixlblog.pixlmap.de/index.php/2019/06/09/make-a-rooted-android-tv-box-pokemongo-ready/) |
 | A95X F1 (2GB/16GB) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 19.3 | Yes | USB A to USB A | ~120 min. | [Tutorial -Ask for access on Discord](https://pixlblog.pixlmap.de/index.php/2019/06/12/pogo-on-a-a95x-f1-atv-s905w-2gb-16gb-s905w_atvxperience_v2ff/) |
+| [T95 S1 2GB/16GB](https://www.amazon.com/gp/product/B07F8X1PQR/) | S905W | [MAD rom V2H s905w RC1](https://www.ircpimps.org/MAD-V2H-t95s1-RC1.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Unzip and read the README |
+| [Sammix R95S 2GB/16GB](https://www.amazon.com/gp/product/B0759V2VHF/) | S905X | [MAD rom V2FF s905x beta1](https://www.ircpimps.org/MAD-V2FF-s905x-beta1.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Unzip and read the README |
 
 
 ## Compatible Smartphones:

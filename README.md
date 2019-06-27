@@ -4,7 +4,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 ## Compatible Android TV boxes:
 | Modelname | CPU | Image | Magisk | Smali | Flashing via | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [X96 Mini (2GB/16GB)](https://www.amazon.de/Smart-Box-Android-7-1-USB-Anschluss-Schwarz/dp/B078ZF9YT6/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=x96+mini+2gb&qid=1559678255&s=gateway&sr=8-4) | S905W | MAD rom V2FF s905w | 18.1 | Yes | SD Card | ~60 min. | HowTo: pinned @ Discord |
+| [X96 Mini (2GB/16GB)](https://www.amazon.de/Smart-Box-Android-7-1-USB-Anschluss-Schwarz/dp/B078ZF9YT6/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=x96+mini+2gb&qid=1559678255&s=gateway&sr=8-4) | S905W | MAD rom V2FF s905w | 18.1 | Yes | SD Card or USB A to USB A | ~60 min. | HowTo: pinned @ Discord |
 | [A95X F1 (2GB/16GB)](https://www.amazon.de/gp/product/B07DCL3YPZ/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1) | S905W | [atvXperience_v2FF](https://mega.nz/#F!GEpQmQhZ!ezNEXQdnyNIhm2axjnfTIg?2IYzQShJ) | 19.3 | Yes | USB A to USB A | ~60 min. | Warning, half these are coming unusable, buy at your own risk |
 | [T95 S1 2GB/16GB](https://www.amazon.com/gp/product/B07F8X1PQR/) | S905W | [MAD rom V2H s905w RC1](https://www.ircpimps.org/MAD-V2H-t95s1-RC1.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Unzip and read the README |
 | [Sammix R95S 2GB/16GB](https://www.amazon.com/gp/product/B0759V2VHF/) | S905X | [MAD rom V2FF s905x beta1](https://www.ircpimps.org/MAD-V2FF-s905x-beta1.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Unzip and read the README |

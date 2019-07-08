@@ -4,11 +4,11 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 ## Compatible Android TV boxes:
 | Modelname | CPU | Image | Magisk | Smali | Flashing via | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [X96 Mini (2GB/16GB)](https://www.amazon.de/Smart-Box-Android-7-1-USB-Anschluss-Schwarz/dp/B078ZF9YT6/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=x96+mini+2gb&qid=1559678255&s=gateway&sr=8-4) | S905W | [MAD rom V2FF s905w RC3](https://www.ircpimps.org/MAD-V2FF-s905w-x96mini-RC3.zip) | 18.1 | Yes | SD Card or USB A to USB A | ~20 min. | Unzip and read the README |
-| [Sammix R95S 2GB/16GB](https://www.amazon.com/gp/product/B0759V2VHF/) | S905X | [MAD rom V2FF s905x beta1](https://www.ircpimps.org/MAD-V2FF-s905x-beta1.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Unzip and read the README |
-| [A95X F1 (2GB/16GB)](https://www.amazon.de/gp/product/B07DCL3YPZ/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1) | S905W | [MAD rom V2FF s905w RC3](https://www.ircpimps.org/MAD-V2FF-s905w-x96mini-RC3.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Unzip and read the README |
-| [T95 S1 2GB/16GB](https://www.amazon.com/gp/product/B07F8X1PQR/) | S905W | [MAD rom V2H s905w RC1](https://www.ircpimps.org/MAD-V2H-t95s1-RC1.zip) | 18.1 | Yes | USB A to USB A | ~20 min. | Warning: half these are coming unusable, buy at your own risk |
-| [Yagala YA-II](https://www.amazon.de/dp/B07HD77CPC) | S905W | [MAD rom V2FF s905w RC2](https://www.ircpimps.org/MAD-V2FF-s905w-x96mini-RC2.zip) | 18.1 | Yes | SD card (USB A to USB A untested) | ~20 min. | Only tried on one device! ROM and procedure exactly the same as X96 Mini |
+| [X96 Mini (2GB/16GB)](https://www.amazon.de/Smart-Box-Android-7-1-USB-Anschluss-Schwarz/dp/B078ZF9YT6/ref=sr_1_4?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=x96+mini+2gb&qid=1559678255&s=gateway&sr=8-4) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | SD Card or USB A to USB A | ~20 min. | Readme file in the ATV repository |
+| [Sammix R95S 2GB/16GB](https://www.amazon.com/gp/product/B0759V2VHF/) | S905X | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | USB A to USB A | ~20 min. | Readme file in the ATV repository |
+| [A95X F1 (2GB/16GB)](https://www.amazon.de/gp/product/B07DCL3YPZ/ref=ppx_yo_dt_b_asin_image_o03_s00?ie=UTF8&psc=1) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | USB A to USB A | ~20 min. | Readme file in the ATV repository |
+| [T95 S1 2GB/16GB](https://www.amazon.com/gp/product/B07F8X1PQR/) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | USB A to USB A | ~20 min. | Warning: half these are coming unusable, buy at your own risk |
+| [Yagala YA-II](https://www.amazon.de/dp/B07HD77CPC) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | SD card (USB A to USB A untested) | ~20 min. | Only tried on one device! ROM and procedure exactly the same as X96 Mini |
 
 
 ## Compatible Smartphones:

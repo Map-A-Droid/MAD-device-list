@@ -13,7 +13,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 ## Compatible Consoles:
 | Console | Magisk | Smali | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: |
-| [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy/dp/B01LTHP2ZK) | 18.1 | Yes | Requires a "hackable" Switch | [Installation](https://forum.xda-developers.com/nintendo-switch/nintendo-switch-news-guides-discussion--development/rom-switchroot-lineageos-15-1-t3951389) & [Steps to get PoGo to work](https://www.reddit.com/r/SwitchHacks/comments/cjmkh5/pokemon_go_running/eveb4ct) |
+| [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy/dp/B01LTHP2ZK) | 18.1 | Yes | Requires a "hacked" Switch | [Installation](https://forum.xda-developers.com/nintendo-switch/nintendo-switch-news-guides-discussion--development/rom-switchroot-lineageos-15-1-t3951389) & [Steps to get PoGo to work](https://www.reddit.com/r/SwitchHacks/comments/cjmkh5/pokemon_go_running/eveb4ct) |
 
 ## Compatible Smartphones:
 | Modelname | OS | Magisk | Rem. battery | Run w/o battery | Effort | Notes |

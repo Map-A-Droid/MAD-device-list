@@ -10,6 +10,10 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | [T95 S1 2GB/16GB](https://www.amazon.com/gp/product/B07F8X1PQR/) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | USB A to USB A | ~20 min. | Warning: half these are coming unusable, buy at your own risk |
 | [Yagala YA-II](https://www.amazon.de/dp/B07HD77CPC) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | 18.1 | Yes | SD card (USB A to USB A untested) | ~20 min. | Only tried on one device! ROM and procedure exactly the same as X96 Mini |
 
+## Compatible Consoles:
+| Console | Magisk | Smali | Effort | Notes |
+| :---: | :---: | :---: | :---: | :---: |
+| [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy/dp/B01LTHP2ZK) | 18.1 | Yes | Requires a "hacked" Switch | [Installation](https://forum.xda-developers.com/nintendo-switch/nintendo-switch-news-guides-discussion--development/rom-switchroot-lineageos-15-1-t3951389) & [Steps to get PoGo to work](https://www.reddit.com/r/SwitchHacks/comments/cjmkh5/pokemon_go_running/eveb4ct) |
 
 ## Compatible Smartphones:
 | Modelname | OS | Magisk | Rem. battery | Run w/o battery | Effort | Notes |

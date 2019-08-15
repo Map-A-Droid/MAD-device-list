@@ -18,6 +18,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 ## Compatible Smartphones:
 | Modelname | OS | Magisk | Rem. battery | Run w/o battery | Effort | Notes |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Acer Liquid Zest Plus T08 | Stock | v19 | N/A | N/A | easy | Boot TWRP from [here](https://forum.xda-developers.com/android/help/help-root-acer-liquid-zest-plus-z628-t08-t3542001) to root and install Magisk |
 | Google Nexus 7 (2013) | [LineageOS 14.1](https://download.lineageos.org/flo) | v18 | [yes/hard](https://www.youtube.com/watch?v=BzknIzaAijQ) | N/A | easy | Disabling fused location causes GPS to stop working entirely, but does not rubberband with this enabled |
 | Google Pixel | Stock (Android 8.1 Oreo) | v18.1 | N/A | N/A | mid | Do not use Link2SD for RGC as it's an A/B phone, use [Systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer) instead |
 | HTC Desire 430 | Stock | v18 | N/A | N/A | mid | 1.5GB RAM so slow but works well, no custom ROMs available and stock is kinda bloaty. Autostarting of pogodroid/RGC requires third party app like tasker |
@@ -70,6 +71,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung XCover 4 | Stock | v18.1 | easy | N/A | easy | No Smali and no PogoDroid Mocking needed |
 | Sony Xperia Z2 | [CarbonROM](https://forum.xda-developers.com/xperia-z2/development/7-x-x-carbonrom-cr-5-1-t3655016) | v18.1 | [yes/mid](https://www.youtube.com/watch?v=BgmCgjuO20E) | N/A | easy | - |
 | Sony Z3 Compact | [CarbonROM](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | N/A | N/A | easy | - |
+| Sony Xperia Tablet Z | LineageOS 15.1 [WiFi](https://download.lineageos.org/pollux_windy) [LTE](https://download.lineageos.org/pollux) | v19 | N/A | N/A | easy | Somewhat laggy, but usable. Sometimes doesn't boot and needs power cycle to reset. RGC sometimes doesn't start and requires reboot. Doesn't like to hold charge if not kept cool. Use _device only_ location. |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | N/A | N/A | easy | - |
 | Ulefone Power | Stock | v18 | N/A | N/A | mid | dodgy USB drivers for rooting |
 | Xiaomi Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | N/A | N/A | easy | - |

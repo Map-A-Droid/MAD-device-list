@@ -33,6 +33,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | LG G5 | LineageOS 15.1 | v18 | [easy](https://www.youtube.com/watch?v=IjZrQUclt2Y) | N/A | easy | Likes to drop WiFi. |
 | LG Nexus 5 | LineageOS 14.1 | v18 | N/A | N/A | easy | Heat, slideshow - needs vps_delay for quests to keep up. Works well for raids. |
 | LG Nexus 5X | [LineageOS 15.1](https://download.lineageos.org/bullhead) | v18 | [yes/mid](https://www.ifixit.com/Guide/Nexus+5X+Battery+Replacement/60275) | N/A | easy | - |
+| LG V30 | Modified Stock | v18.1 | N/A | N/A | Easy | US998 only. [Root guide](https://forum.xda-developers.com/showpost.php?p=76584629) Contact Beavis for more info |
 | Motorola E4 - Plus | [LineageOS 14.1](https://androidfilehost.com/?fid=5862345805528046723)(Mediatek CPU(nicklaus)) | v18 | N/A | N/A | mid | - |
 | Motorola E4 (Mediatek) | Stock/[LineageOS Unofficial](https://forum.xda-developers.com/moto-e4/development/rom-lineageos-14-1-moto-e4-mediatek-t3717926) | v18 | N/A | N/A | easy | Device is available with Qualcomm processor as well - untested |
 | Motorola E5 - Play (james) | [firmware](https://forum.xda-developers.com/moto-e5/how-to/firmware-moto-e5-xt1944-4-dual-sim-t3820901) [Directions](https://forum.xda-developers.com/moto-e5/how-to/guide-root-twrp-moto-e5-play-explained-t3856182) | v18.1 | N/A | N/A | mid | youtube FRP unlock method worked for me |

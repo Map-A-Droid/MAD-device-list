@@ -29,6 +29,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | LeEco Le 2 X526 | LineageOS 15.1 | v18 | N/A | N/A | easy | - |
 | LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | N/A | N/A | mid | Needs safetypatcher magisk module. |
 | LG Aristo 2 | LineageOS 14.1 | v19 | yes | N/A | mid | 1) Downgrade to Nougat or earlier to allow Fastboot commands to work. 2) Use TWRP and LineageOS 14.1.zip from here: https://androidfilehost.com/?a=show&w=files&flid=285484. 3) Wipe Data partition with TWRP and format wtih ext4 to get around any encryption, then reboot back to TWRP.  4) Use Smali Patcher to alleviate rubberbanding. |
+| LG G3 (Canadian d852 Telus/Koodo) | [LineageOS 15.1](https://download.lineageos.org/d852) | v19 | yes | N/A | hard | Bootloader not unlockable so must be [downgraded to Lollipop](https://forum.xda-developers.com/showpost.php?p=64624353&postcount=3) and then [rooted via exploit](https://www.henrychang.ca/lg-g3-d852-teluskoodo-version-rooting-and-twrp-recovery-installation/) before going to LineageOS |
 | LG G5 | LineageOS 15.1 | v18 | [easy](https://www.youtube.com/watch?v=IjZrQUclt2Y) | N/A | easy | Likes to drop WiFi. |
 | LG Nexus 5 | LineageOS 14.1 | v18 | N/A | N/A | easy | Heat, slideshow - needs vps_delay for quests to keep up. Works well for raids. |
 | LG Nexus 5X | [LineageOS 15.1](https://download.lineageos.org/bullhead) | v18 | [yes/mid](https://www.ifixit.com/Guide/Nexus+5X+Battery+Replacement/60275) | N/A | easy | - |
@@ -70,6 +71,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Samsung XCover 3 (SM-G388F) | Stock (Android 5.1.1 Lollipop) | v18.1 | N/A | N/A | N/A | Pogodroid works, RGC crashes  |
 | Samsung XCover 4 | Stock | v18.1 | easy | N/A | easy | No Smali and no PogoDroid Mocking needed |
 | Sony Xperia Z2 | [CarbonROM](https://forum.xda-developers.com/xperia-z2/development/7-x-x-carbonrom-cr-5-1-t3655016) | v18.1 | [yes/mid](https://www.youtube.com/watch?v=BgmCgjuO20E) | N/A | easy | - |
+| Sony Xperia Z3 | [CarbonROM](https://get.carbonrom.org/device-z3.html) | v19 | N/A | N/A | mid | Requires patched build fingerprint to pass SafetyNet, e.g. via [MagiskHide Props Config](https://forum.xda-developers.com/apps/magisk/module-magiskhide-props-config-t3789228) |
 | Sony Z3 Compact | [CarbonROM](https://forum.xda-developers.com/z3-compact/orig-development/8-1-x-carbonrom-cr-6-1-t3771549) | v18 | N/A | N/A | easy | - |
 | Sony Xperia Tablet Z | LineageOS 15.1 [WiFi](https://download.lineageos.org/pollux_windy) [LTE](https://download.lineageos.org/pollux) | v19 | N/A | N/A | easy | Somewhat laggy, but usable. Sometimes doesn't boot and needs power cycle to reset. RGC sometimes doesn't start and requires reboot. Doesn't like to hold charge if not kept cool. Use _device only_ location. |
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | N/A | N/A | easy | - |

@@ -25,6 +25,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | HTC Desire 626 | Stock | v18 | [yes/mid](https://www.youtube.com/watch?v=_Zt4Inymy98) | N/A | mid | No custom ROMs available and stock is kinda bloaty. Autostarting of pogodroid/RGC requires third party app like tasker. |
 | HTC One -  M7 | [LineageOS 14.1](https://forum.xda-developers.com/htc-one/orig-development/rom-lineage-os-14-1-t3531331) | v18 | [yes/hard](https://www.youtube.com/watch?v=U0ePbtqaPVA) | N/A | mid | heat |
 | HTC One -  M8 | [LineageOS 14.1](https://download.lineageos.org/m8) | v18 | [yes/hard](https://www.youtube.com/watch?v=zNQM8Nb632Q) | N/A | mid | heat |
+| Huawei NEXUS 6P | LineageOS 15.1  | v19 | N/A | N/A | easy | - |
 | Huawei P Smart | Stock | v18 | [yes/hard](https://www.youtube.com/watch?v=ngeka8enG00) | N/A | very hard | Requires paid bootloader unlock through DCunlocker and building own kernel with CONFIG_HUAWEI_PTRACE_POKE_ON=y and CONFIG_SECURITY_SELINUX_DEVELOP=y |
 | LeEco Le 2 X526 | LineageOS 15.1 | v18 | N/A | N/A | easy | - |
 | LG Aristo | LineageOS 14.1 for stylo 2 plus by messi2050 | v18.1 | N/A | N/A | mid | Needs safetypatcher magisk module. |

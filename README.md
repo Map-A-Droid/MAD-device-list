@@ -80,6 +80,7 @@ List of devices known to work or not to work with the listed ROMs and Magisk ver
 | Ulefone Metal | [madOS 8.1](https://forum.xda-developers.com/android/development/rom-official-mados-ulefone-metal-t3709342) | v18 | N/A | N/A | easy | - |
 | Ulefone Power | Stock | v18 | N/A | N/A | mid | dodgy USB drivers for rooting |
 | Xiaomi Redmi 5A | [LineageOS 15.1](https://forum.xda-developers.com/xiaomi-redmi-5a/development/2018-10-10-lineageos-15-1-t3864961) | v18 | N/A | N/A | easy | - |
+| Samsung Tab Pro 8.4 (SM-T320) | [LineageOS 13.0](https://drive.google.com/file/d/1oZZbqik-fwEeRN8qKHtlF0hkT9TPo46Y/view) | v18.1 | N/A | N/A | mid | Requires [Magisk Props Hide](https://forum.xda-developers.com/apps/magisk/module-magiskhide-props-config-t3789228) fingerprint and improved hiding to pass safetynet. |
 
 Stock = Native default ROM
 

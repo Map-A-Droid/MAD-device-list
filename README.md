@@ -52,7 +52,7 @@ Further information about ATVs and how to use them can be found on the [MAD-ATV 
 | OnePlus 6 | Stock (Android 9.0 Pie) | v18 | N/A | N/A | easy | Pie requires MAD running behind a TLS reverse proxy |
 | Samsung Galaxy A3 2017 | [Resurrection Remix](https://forum.xda-developers.com/samsung-a-series-2017/development/rom-resurrection-remix-6-0-t3787726) | v18 | N/A | N/A | mid | phone is very inconsitsent, sometimes not powering on. Use with risk. |
 | Samsung Galaxy A5 | [LineageOS 14.1](https://download.lineageos.org/a5y17lte) | v17.1 | N/A | N/A | mid | laggy |
-| Samsung Galaxy A5 2017 | Stock | v18 | N/A | N/A | easy | - |
+| Samsung Galaxy A5 2017 | Stock | v19.0 | N/A | N/A | easy | - |
 | Samsung Galaxy A8 2018 | Stock | v18 | N/A | N/A | easy | before magisk flashing you have to flash a custom kernel on TWRP! [Download Kernel](https://github.com/DevKingsTeam/android_kernel_samsung_universal7885/releases/tag/se8.5-v1) |
 | Samsung Galaxy J2 - Prime G532M | HadesRom 6.0.1 | v18.1 | N/A | N/A | easy | the only hard part was waiting for a working rom |
 | Samsung Galaxy J2 | Stock | v18 | easy | N/A | easy | Often RGC/PogoDroid Lost Connection |

@@ -13,6 +13,7 @@ Further information about ATVs and how to use them can be found on the [MAD-ATV 
 | [Yagala YA-II](https://www.amazon.de/dp/B07HD77CPC) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | Yes | No | SD card (USB A to USB A untested) | ~20 min. | Only tried on one device! ROM and procedure exactly the same as X96 Mini |
 | [A95X Nexbox (A95X-B7N)](https://www.aliexpress.com/item/4000186693551.html?spm=a2g0o.productlist.0.0.708f2038EBJeA5&algo_pvid=48125060-4ca6-483c-be62-f772970cfcd1&algo_expid=48125060-4ca6-483c-be62-f772970cfcd1-0&btsid=0ab6d69515964500069758358efa28&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | Yes | Yes, beta, no WiFi, Use A95X F1 Rom | USB A to A | ~20 min. | Box comes in 2 forms S905W and S905X, only S905W has been tested. Only tried on one device! ROM and procedure exactly the same as A95X F1 |
 | [TX9S](https://www.amazon.com/gp/product/B08BL19CQ8) | S912 | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | Yes | Yes, beta | USB A to A | ~20 min. | Device seems to be end-of-life and stock is mostly limited. 2GB variant works just as good as the 3GB variant.|
+| [Yutmart S10 Mini](https://www.aliexpress.com/i/32994137462.html) | S905W | [MAD rom](https://github.com/Map-A-Droid/MAD-ATV/releases) | Yes | Yes, beta, no WiFi, Use A95X F1 Rom | USB A to A | ~20 min. | Board, ROM, and procedure exactly the same as the A95X F1 |
 
 ## Compatible Consoles:
 | Console | Magisk | Smali | Effort | Notes |

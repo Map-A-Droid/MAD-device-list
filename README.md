@@ -1,5 +1,5 @@
 # MAD-device-list
-List of devices known to work or not to work with the listed ROMs and Magisk versions (pass Safety Net, run Pogo along with RGC and stuff)
+Community made list of devices known to work or not to work with the listed ROMs and Magisk versions (pass SafetyNet, run PoGo along with RGC and stuff). If device is not listed here it does not mean it will not work - just no one reported it :)
 
 ## Compatible Android TV boxes:
 Further information about ATVs and how to use them can be found on the [MAD-ATV wiki](https://github.com/Map-A-Droid/MAD-ATV/wiki)
